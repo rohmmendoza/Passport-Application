@@ -1,3 +1,3 @@
 # Passport-Application
 
-<h1><a href="PasportApp.html"> Passport Aplication</a></h1>
+<h1><a href="PasportApp.html"> Passport Application</a></h1>
